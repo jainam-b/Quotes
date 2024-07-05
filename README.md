@@ -1,6 +1,6 @@
 # Quotes App
 
-This is a simple React application that displays random quotes from Ron Swanson. The app allows users to save their favorite quotes to local storage so they persist even after a page reload.
+This is a simple React application that displays random quotes . The app allows users to save their favorite quotes to local storage so they persist even after a page reload.
 
 ## Features
 
